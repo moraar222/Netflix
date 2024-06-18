@@ -1,3 +1,6 @@
+![Screenshot (45)](https://github.com/moraar222/Netflix/assets/86566492/f3de3d6d-72a9-4cc8-a102-36f10f03000e)
+![Screenshot (44)](https://github.com/moraar222/Netflix/assets/86566492/0761d1f9-844d-41d1-b65f-77042de45019)
+![Screenshot (43)](https://github.com/moraar222/Netflix/assets/86566492/1424caa3-7ce6-4f08-9933-13b72ab77c4c)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
