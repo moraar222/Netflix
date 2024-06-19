@@ -7,7 +7,7 @@ function feature() {
         <div class="lg:flex lg:items-center">
             <div class="w-full space-y-12 lg:w-1/2 ">
                 <div>
-                    <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our <br> awesome Components</h1>
+                    <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">explore our <br/> awesome Components</h1>
 
                     <div class="mt-2">
                         <span class="inline-block w-40 h-1 bg-blue-500 rounded-full"></span>
