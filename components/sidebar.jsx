@@ -3,7 +3,7 @@ import React from 'react'
 function sidebar() {
   return (
     <aside class="flex">
-    <div class="flex flex-col items-center w-16 h-screen py-8 bg-white dark:bg-gray-900 dark:border-gray-700">
+    <div class="flex flex-col items-center w-16 h-screen py-8 bg-white dark:bg-green-500 dark:border-gray-700">
         <nav class="flex flex-col items-center flex-1 space-y-8 ">
             <a href="#">
                 <img class="w-auto h-6" src="https://merakiui.com/images/logo.svg" alt=""/>
