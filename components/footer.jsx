@@ -42,7 +42,7 @@ function footer() {
         
         <div class="flex items-center justify-between">
             <a href="#">
-                <img class="w-auto h-7" src="https://merakiui.com/images/full-logo.svg" alt=""/>
+                <img class="w-auto h-7" src="https://i.pinimg.com/236x/e3/f6/a6/e3f6a6f7a9b94b2970509e0a2cbf7abb.jpg" alt=""/>
             </a>
             
             <div class="flex -mx-2">
