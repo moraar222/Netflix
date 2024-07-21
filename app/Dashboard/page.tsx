@@ -11,7 +11,7 @@ function page() {
                 <p>Content for card 1</p>
               </div>
               <div className="bg-white p-4 rounded shadow">
-                <h2 className="text-xl font-bold mb-2">Card 2</h2>;
+                <h2 className="text-xl font-bold mb-2">About</h2>
                 <p>Content for card 2</p>
               </div>
               <div className="bg-white p-4 rounded shadow">
