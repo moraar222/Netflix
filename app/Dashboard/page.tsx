@@ -12,7 +12,7 @@ function page() {
               </div>
               <div className="bg-white p-4 rounded shadow">
                 <h2 className="text-xl font-bold mb-2">About us</h2>
-                <p>visitations</p>
+                <p>Our projects/visitations</p>
               </div>
               <div className="bg-white p-4 rounded shadow">
                 <h2 className="text-xl font-bold mb-2">Card 3</h2>
